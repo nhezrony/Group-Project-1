@@ -1,0 +1,59 @@
+/* Custom Stylesheet */
+
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#map-canvas {
+  height: 100%;
+  width: 100%;
+}
+
+/* body {
+  background-image: url('../Images/avion.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+#searchByRouteContainer {
+  margin-top: 60px;
+}
+
+#scheduledFlights {
+  margin-top: 60px;
+}
+
+/* #SBRBtn {
+  text-align: center;
+  float: none;
+} */
+
+#carrierImg {
+  margin: 20px;
+}
+
+#map {
+  height: 100%;
+}
+
+.scheduledFlights {
+  margin-top: 40px;
+}
